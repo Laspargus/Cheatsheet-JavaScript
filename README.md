@@ -16,7 +16,7 @@ comparing single line and multiline arrow functions
 - A function is a reusable block of code that groups together a sequence of statements to perform a specific task.
 
 - A function declaration :
-
+![Image of Yaktocat]
 (https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-functions/Diagram/declaration.svg)
 
 - A parameter is a named variable inside a function’s block which will be assigned the value of the argument passed in when the function is invoked:
